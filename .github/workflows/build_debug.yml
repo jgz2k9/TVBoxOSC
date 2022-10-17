@@ -1,4 +1,4 @@
-- name: APK Build action
+ name: APK Build action
   uses: MayMeow/apk-build/action@v1
   with:
     android-compile-sdk: "30"
