@@ -1,4 +1,4 @@
-name: Build & Publish Release APK
+name: manual Build & Publish Release APK
 
 on:
   workflow_dispatch:
